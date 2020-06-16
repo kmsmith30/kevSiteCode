@@ -1,0 +1,14 @@
+div.pic {
+  clear: both;
+  padding-bottom: 25px;
+  border: 1px solid #ccc;
+  width: 60%;
+  text-align: center;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+div.pic img {
+  height: 60%;
+  width: 60%;
+}
